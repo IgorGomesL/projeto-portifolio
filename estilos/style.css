@@ -302,6 +302,7 @@ footer a:hover {
 
   #skill-container {
     grid-template-columns: 1fr 1fr;
+    
   }
 
   #projeto-container .projeto {
