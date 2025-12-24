@@ -269,7 +269,8 @@ footer {
   background-color: var(--destaque);
   color: var(--texto-inverso);
   text-align: center;
-  padding: 15px;
+  padding: 5px;
+  font-size: 0.8em;
 }
 
 footer a {
